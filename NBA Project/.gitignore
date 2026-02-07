@@ -1,0 +1,7 @@
+# Ignore the huge dataset
+NBA Project/PlayerStatistics.csv
+
+# Optional: ignore other large/generated files
+*.xlsx
+__pycache__/
+.ipynb_checkpoints/
